@@ -1,0 +1,14 @@
+{
+    "name": {
+        "ar": "WasmB-components",
+        "en": "wasmb-components"
+    },
+    "description": {
+        "ar": "",
+        "en": ""
+    },
+    "author_email": "abdullah.gs029@gmail.com",
+    "support_url": "",
+    "repository": "https://github.com/HaYashar/tw-wasmb-components",
+    "components": []
+}
